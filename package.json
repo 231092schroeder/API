@@ -1,0 +1,23 @@
+{
+  "name": "schroeder",
+  "version": "0.0.1",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index"
+  },
+  "keywords": [
+    "Domap"
+  ],
+  "author": "Tatiane Schroeder",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "cors": "^2.8.5",
+    "mongoose": "^6.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "description": ""
+}
